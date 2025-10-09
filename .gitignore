@@ -17,6 +17,12 @@ venv/
 env/
 .venv/
 
+# ---- Checkpoints ----
+checkpoints/
+*.pt
+*.pth
+
+
 # ---- System ----
 .DS_Store
 Thumbs.db
