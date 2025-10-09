@@ -22,6 +22,8 @@ checkpoints/
 *.pt
 *.pth
 
+# ---- Generated Images ----
+generated_images/
 
 # ---- System ----
 .DS_Store
