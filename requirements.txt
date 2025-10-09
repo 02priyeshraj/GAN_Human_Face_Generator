@@ -1,0 +1,8 @@
+torch
+torchvision
+tensorflow>=2.0
+numpy
+pandas
+matplotlib
+jupyter
+streamlit

@@ -1,0 +1,25 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- Virtual Environment ----
+venv/
+env/
+.venv/
+
+# ---- System ----
+.DS_Store
+Thumbs.db
+
+# ---- Streamlit ----
+.streamlit/
