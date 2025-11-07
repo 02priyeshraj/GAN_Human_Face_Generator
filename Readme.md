@@ -92,7 +92,7 @@ Once the app is running, open the **local URL** (usually `http://localhost:8501`
 
 ---
 
-## 📸 Example Output
+## Example Output
 
 ![Screenshot 1](./screenshots/s1.png)  
 ![Screenshot 2](./screenshots/s2.png)
