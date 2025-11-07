@@ -94,13 +94,25 @@ Once the app is running, open the **local URL** (usually `http://localhost:8501`
 
 ## Example Output
 
-![Screenshot 1](./screenshots/s1.png)  
-![Screenshot 2](./screenshots/s2.png)
-![Screenshot 2](./screenshots/s3.png)  
-![Screenshot 2](./screenshots/s4.png)  
-![Screenshot 2](./screenshots/s5.png) 
+![Screenshot 1](./screenshots/s1.png)
 
----
+<hr style="border: 1px dotted #bbb;">
+
+![Screenshot 2](./screenshots/s2.png)
+
+<hr style="border: 1px dotted #bbb;">
+
+![Screenshot 3](./screenshots/s3.png)
+
+<hr style="border: 1px dotted #bbb;">
+
+![Screenshot 4](./screenshots/s4.png)
+
+<hr style="border: 1px dotted #bbb;">
+
+![Screenshot 5](./screenshots/s5.png)
+
+--- 
 
 ## License
 
